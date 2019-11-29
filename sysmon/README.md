@@ -1,4 +1,4 @@
-| Event ID      | Name           |
+| Event ID      | Description           |
 | ------------- | ------------- |
 | [1](1.md) | Process creation |
 | [2](2.md) | A process changed a file creation time |
@@ -18,7 +18,7 @@
 | [16](16.md) | PipeEvent (Pipe Created) |
 | [17](17.md) | PipeEvent (Pipe Connected) |
 | [18](18.md) | WmiEvent (WmiEventFilter activity detected) |
-| [19](19.md) | WmiEvent (WmiEventConsumer activity detected) |
+| [19](19.md) | WmiEvent (WmiEventFilter activity detected) |
 | [20](20.md) | WmiEvent (WmiEventConsumer activity detected) |
 | [21](21.md) | WmiEvent (WmiEventConsumerToFilter activity detected) |
 | [22](22.md) | DNSEvent (DNS query) |
