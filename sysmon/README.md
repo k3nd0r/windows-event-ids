@@ -15,8 +15,8 @@
 | [13](13.md) | RegistryEvent (Value Set) |
 | [14](14.md) | RegistryEvent (Key and Value Rename) |
 | [15](15.md) | FileCreateStreamHash |
-| [17](17.md) | PipeEvent (Pipe Connected) |
-| [18](18.md) | WmiEvent (WmiEventFilter activity detected) |
+| [17](17.md) | PipeEvent (Pipe Created) |
+| [18](18.md) | PipeEvent (Pipe Connected) |
 | [19](19.md) | WmiEvent (WmiEventFilter activity detected) |
 | [20](20.md) | WmiEvent (WmiEventConsumer activity detected) |
 | [21](21.md) | WmiEvent (WmiEventConsumerToFilter activity detected) |
