@@ -1,6 +1,14 @@
 # Sysmon
 
-[TOC]
+Table of Contents
+=================
+
+   * [Sysmon](#sysmon)
+      * [Event IDs](#event-ids)
+      * [Popular Sysmon Configuration Files/Templates](#popular-sysmon-configuration-filestemplates)
+      * [Projects using Sysmon](#projects-using-sysmon)
+         * [HELK - <a href="https://github.com/Cyb3rWard0g">Cyb3rWard0g</a>](#helk---cyb3rward0g)
+      * [Other Documentation and Information](#other-documentation-and-information)
 
 ## Event IDs
 | Event ID      | Description           |
