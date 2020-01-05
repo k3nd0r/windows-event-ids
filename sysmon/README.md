@@ -1,3 +1,8 @@
+# Sysmon
+
+[TOC]
+
+## Event IDs
 | Event ID      | Description           |
 | ------------- | ------------- |
 | [1](1.md) | Process creation |
@@ -22,3 +27,23 @@
 | [21](21.md) | WmiEvent (WmiEventConsumerToFilter activity detected) |
 | [22](22.md) | DNSEvent (DNS query) |
 | [225](255.md) | Error |
+
+## Popular Sysmon Configuration Files/Templates
+
+ - [SwiftOnSecurity](https://github.com/SwiftOnSecurity/sysmon-config)
+ - [sysmon-modular](https://github.com/olafhartong/sysmon-modular)
+ - [ionstorm](https://github.com/ion-storm/sysmon-config)
+
+## Projects using Sysmon
+
+### HELK - [Cyb3rWard0g](https://github.com/Cyb3rWard0g)
+
+ - [HELK GitHub](https://github.com/Cyb3rWard0g/HELK)
+ - [Write-up](https://posts.specterops.io/real-time-sysmon-processing-via-ksql-and-helk-part-1-initial-integration-88c2b6eac839)
+
+
+
+## Other Documentation and Information
+ - [Official Documentation](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) - Microsoft
+ - [Getting Started with Sysmon](https://www.blackhillsinfosec.com/getting-started-with-sysmon/) - Black Hills Information Security
+ - ["How to Go from Responding to Hunting with Sysinternals Sysmon"](https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx) - Mark Russinovich
